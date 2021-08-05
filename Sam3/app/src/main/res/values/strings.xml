@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Sam3</string>
+    <string name="title">Fill the form to register</string>
+    <string name="name">Enter Name</string>
+    <string name="email">Enter Email</string>
+    <string name="phone">Enter Phone Number</string>
+    <string name="ID">Enter ID Number</string>
+    <string name="password">Enter Password</string>
+    <string name="SignUp">Sign Up</string>
+    <string name="SignIn">Sign In</string>
+    <string name=""></string>
+</resources>
